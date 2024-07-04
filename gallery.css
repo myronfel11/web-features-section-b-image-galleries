@@ -53,3 +53,44 @@ body {
     color: #ff4500; /* 橘红色 */
 }
 
+
+
+
+
+
+.card-section {
+    padding: 20px;
+}
+
+.ex-container{
+    width: 1226px;
+    margin: 0 auto; 
+}
+
+.card-section h2 {
+    margin-bottom: 10px;
+}
+
+.card-section hr {
+    margin-bottom: 20px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    width: 45%;
+    margin: 1%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+.card img {
+    width: 400px;
+    height:400px;
+}
+
